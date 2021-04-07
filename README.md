@@ -8,6 +8,8 @@
 - 🤖 &nbsp; Product developer at Skills For Industry.
 - 🎓 &nbsp; Studying B.S. in Robotics and Digital Systems Engineering at Tecnologico de Monterrey campus Guadalajara.
 
+![Follow Me](https://img.shields.io/github/followers/OSWA00.svg?style=social&label=Follow&maxAge=2592000)
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -28,7 +30,6 @@
 
 
 ##  🤝🏻 &nbsp;Connect with Me
-![Follow Me](https://img.shields.io/github/followers/OSWA00.svg?style=social&label=Follow&maxAge=2592000)
 
 <p align="center">
 
