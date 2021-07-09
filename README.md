@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🧠 &nbsp; Learning and exploring new ways to solve problems.
-- 🤖 &nbsp; Product developer at Skills For Industry.
+- 🤖 &nbsp; Hardware, circuit design, and robotics
 - 🎓 &nbsp; Studying B.S. in Robotics and Digital Systems Engineering at Tecnologico de Monterrey campus Guadalajara.
 
 ![Follow Me](https://img.shields.io/github/followers/OSWA00.svg?style=social&label=Follow&maxAge=2592000)
