@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🧠 &nbsp; Learning and exploring new ways to solve problems.
-- 🤖 &nbsp; Hardware, circuit design, and robotics
+- 🧠 &nbsp; Building embedded & connected solutions.
+- 🤖 &nbsp; Embedded systems, internet of things and hardware design.
 - 🎓 &nbsp; Studying B.S. in Robotics and Digital Systems Engineering at Tecnologico de Monterrey campus Guadalajara.
 
 ![Follow Me](https://img.shields.io/github/followers/OSWA00.svg?style=social&label=Follow&maxAge=2592000)
