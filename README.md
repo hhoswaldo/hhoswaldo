@@ -11,6 +11,7 @@
 ##### BIO
 
 - ⚙️ I use daily: `.rs`, `.py`, `.cpp`, `.c`.
+- 🔨 Also familiar: `.sql`, `bash`.
 - 🛰 I am currently using Fedora Linux
 - 🌱 Learning all about **Computer Vision, Applied ML, Robotics, Embedded Systems, Systems Programming**
 - 💬 Ping me about **embedded**, **IoT**, **ML**, **development**
