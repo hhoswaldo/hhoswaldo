@@ -15,5 +15,7 @@
 - 🛰 I am currently using Fedora Linux
 - 🌱 Learning all about **Computer Vision, Applied ML, Robotics, Embedded Systems, Systems Programming**
 - 💬 Ping me about **embedded**, **IoT**, **ML**, **development**
-- 📫 Reach me: [linkedin.com/in/oswaldo-ernesto-hernandez/](https://www.linkedin.com/in/oswaldo-ernesto-hernandez/)
+- 📫 Reach me: 
+- - [linkedin.com/in/oswaldo-ernesto-hernandez/](https://www.linkedin.com/in/oswaldo-ernesto-hernandez/)
+- - oswaldohernandez@protonmail.com
 - ⚡️ Fun fact: I'm a huge fan of radiohead.
