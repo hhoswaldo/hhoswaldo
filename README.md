@@ -18,4 +18,4 @@
 - 📫 Reach me: 
 - - [linkedin.com/in/oswaldo-ernesto-hernandez/](https://www.linkedin.com/in/oswaldo-ernesto-hernandez/)
 - - oswaldohernandez@protonmail.com
-- ⚡️ Fun fact: I'm a huge fan of radiohead.
+- ⚡️ Fun fact: I'm a huge fan of radiohead & literature.
