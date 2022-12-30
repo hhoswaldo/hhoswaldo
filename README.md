@@ -4,15 +4,15 @@
 
 ##### NOW
 
-- ✨ Designing IoT & embededd solutions for the energy sector;
-- 🇲🇽 Guadalajara, Mx;
+- ✨ Designing IoT & embededd solutions for the energy sector.
+- 🇲🇽 Guadalajara, Mx.
 - 🤖 Robotics & ROS enthusiast.
 
 ##### BIO
 
 - ⚙️ I use daily: `.rs`, `.py`, `.cpp`, `.c`.
 - 🔨 Also familiar: `.sql`, `bash scripting`.
-- 🛰 I am currently using Fedora Linux
+- 🛰 I am currently using Fedora Linux.
 - 🌱 Learning all about **Computer Vision, Applied ML, Robotics, Embedded Systems, Systems Programming**
 - 💬 Ping me about **embedded**, **IoT**, **ML**, **development**
 - 📫 Reach me: 
