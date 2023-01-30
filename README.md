@@ -12,7 +12,7 @@
 
 - ⚙️ I use daily: `.rs`, `.py`, `.cpp`, `.c`.
 - 🔨 Also familiar: `.sql`, `bash scripting`.
-- 🛰 I am currently using Fedora Linux.
+- 🛰 I currently use Fedora & Windows.
 - 🌱 Learning all about **Computer Vision, Applied ML, Robotics, Embedded Systems, Systems Programming**
 - 💬 Ping me about **embedded**, **IoT**, **ML**, **development**
 - 📫 Reach me: 
