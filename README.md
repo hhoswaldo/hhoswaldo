@@ -1,4 +1,4 @@
-"We drive transformation in various industries with custom Internet of Things (IoT) and electronics solutions.
+We drive transformation in various industries with custom Internet of Things (IoT) and electronics solutions.
 
 Some of our developments include:
 
@@ -12,4 +12,4 @@ Contact me for:
 - Design and development of Internet of Things (IoT) solutions
 - Customized electronics services
 
-For more information, don't hesitate to send me a message at oswaldohernandez@connectiasoluciones.com."
+For more information, don't hesitate to send me a message at oswaldohernandez@connectiasoluciones.com.
