@@ -1,21 +1,16 @@
-### Hi there 👋 ###
+"We drive transformation in various industries with custom Internet of Things (IoT) and electronics solutions.
 
-#### I am a senior EECS B.S. student @TecdeMonterrey & independent embedded developer.
+Some of our developments include:
 
-##### NOW
+A custom hardware control module for gas conversion in cars, optimizing the efficiency and safety of fuel pumps.
 
-- ✨ Designing IoT & embededd solutions for the energy sector.
-- 🇲🇽 Guadalajara, Mx.
-- 🤖 Robotics & ROS enthusiast.
+A complete IoT system for effective LPG storage management. Our solution consists of sensor nodes, a gateway that centralizes information, and an API that allows clients to conveniently access data.
 
-##### BIO
+At Connectia Solutions, we not only conceptualize solutions but also develop them according to our clients' specific needs, helping them improve their operations and increase profitability.
 
-- ⚙️ I use daily: `.rs`, `.py`, `.cpp`, `.c`.
-- 🔨 Also familiar: `.sql`, `bash scripting`.
-- 🛰 I currently use Fedora & Windows.
-- 🌱 Learning all about **Computer Vision, Applied ML, Robotics, Embedded Systems, Systems Programming**
-- 💬 Ping me about **embedded**, **IoT**, **ML**, **development**
-- 📫 Reach me: 
-- - [linkedin.com/in/oswaldo-ernesto-hernandez/](https://www.linkedin.com/in/oswaldo-ernesto-hernandez/)
-- - oswaldohernandez@protonmail.com
-- ⚡️ Fun fact: I'm a huge fan of radiohead & literature.
+Contact me for:
+
+🔹 Design and development of Internet of Things (IoT) solutions
+🔹 Customized electronics services
+
+For more information, don't hesitate to send me a message at oswaldohernandez@connectiasoluciones.com."
