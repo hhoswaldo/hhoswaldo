@@ -9,8 +9,7 @@ A complete IoT system for effective LPG storage management. Our solution consist
 At Connectia Solutions, we not only conceptualize solutions but also develop them according to our clients' specific needs, helping them improve their operations and increase profitability.
 
 Contact me for:
-
-🔹 Design and development of Internet of Things (IoT) solutions
-🔹 Customized electronics services
+- Design and development of Internet of Things (IoT) solutions
+- Customized electronics services
 
 For more information, don't hesitate to send me a message at oswaldohernandez@connectiasoluciones.com."
